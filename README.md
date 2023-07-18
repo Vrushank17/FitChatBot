@@ -1,2 +1,3 @@
-# FitChatBot
-A Python-based chatbot that answers fitness-related questions, from meal plans to workout routines
+# FitnessChatbot
+
+A simple and effective chatbot finetuned on the BERT Sequence Classification Model that answers questions or concerns related to physical health or fitness.
