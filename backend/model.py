@@ -1,3 +1,5 @@
+# Custom neural net created with the nn.Module. Used in older version of project
+
 import torch
 import torch.nn as nn
 
